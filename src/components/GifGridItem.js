@@ -1,13 +1,19 @@
 import React from 'react'
 import '../index.css'
+import PropTypes from 'prop-types'
 
-const GiftGridItem = ({ title, url}) => {
+const GifGridItem = ({ title, url}) => {
   return (
     <div className='card animate__animated animate__fadeIn'>
       <img src={ url } alt={ title }/>
-      <p>{ title }</p>
+      <p className='text-hidden'>{ title }</p>
     </div>
   )
 }
 
-export default GiftGridItem
+GifGridItem.propTypes = {
+  title: PropTypes.string.isRequired,
+  url: PropTypes.string.isRequired
+}
+
+export default GifGridItem

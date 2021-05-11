@@ -19,6 +19,7 @@ const AddCategory = ({ setCategories }) => {
   return (
     <form onSubmit={ handleSubmit }>
       <input
+        className='input-search'
         type='text'
         value={ inputValue }
         placeholder='Busca cualquier cosa...'
