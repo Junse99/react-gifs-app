@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/react-gifs-app/static/css/main.11af6546.chunk.css",
+    "main.js": "/react-gifs-app/static/js/main.1ea3c774.chunk.js",
+    "main.js.map": "/react-gifs-app/static/js/main.1ea3c774.chunk.js.map",
+    "runtime-main.js": "/react-gifs-app/static/js/runtime-main.33dfb6cd.js",
+    "runtime-main.js.map": "/react-gifs-app/static/js/runtime-main.33dfb6cd.js.map",
+    "static/js/2.9d9c0e21.chunk.js": "/react-gifs-app/static/js/2.9d9c0e21.chunk.js",
+    "static/js/2.9d9c0e21.chunk.js.map": "/react-gifs-app/static/js/2.9d9c0e21.chunk.js.map",
+    "index.html": "/react-gifs-app/index.html",
+    "static/css/main.11af6546.chunk.css.map": "/react-gifs-app/static/css/main.11af6546.chunk.css.map",
+    "static/js/2.9d9c0e21.chunk.js.LICENSE.txt": "/react-gifs-app/static/js/2.9d9c0e21.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.33dfb6cd.js",
+    "static/js/2.9d9c0e21.chunk.js",
+    "static/css/main.11af6546.chunk.css",
+    "static/js/main.1ea3c774.chunk.js"
+  ]
+}
